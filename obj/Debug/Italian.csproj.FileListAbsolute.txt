@@ -1,0 +1,7 @@
+C:\Users\carro\source\repos\Italian\Italian\obj\Debug\Italian.csprojResolveAssemblyReference.cache
+C:\Users\carro\source\repos\Italian\Italian\obj\Debug\Italian.csproj.CoreCompileInputs.cache
+C:\Users\carro\source\repos\Italian\Italian\bin\Debug\Italian.exe.config
+C:\Users\carro\source\repos\Italian\Italian\bin\Debug\Italian.exe
+C:\Users\carro\source\repos\Italian\Italian\bin\Debug\Italian.pdb
+C:\Users\carro\source\repos\Italian\Italian\obj\Debug\Italian.exe
+C:\Users\carro\source\repos\Italian\Italian\obj\Debug\Italian.pdb
