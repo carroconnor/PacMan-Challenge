@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="GameController.cs" />
     <Compile Include="GameService.cs" />
-    <Compile Include="IGameServices.cs" />
+    <Compile Include="IGameService.cs" />
     <Compile Include="Pacman.cs" />
     <Compile Include="GameObject.cs" />
     <Compile Include="Program.cs" />

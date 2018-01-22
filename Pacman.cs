@@ -24,7 +24,6 @@
         public int GetLives()
         {
             return this.Lives;
-
         }
 
         public void SubtractLives(int lives)

@@ -3,10 +3,9 @@ using System.IO;
 
 namespace Italian
 {
-    public class GameService  //IGameServices
+    public class GameService : IGameService
     {
         public List<string> GameSequence;
-
 
         public int SequenceIndex = 0;
 
@@ -40,7 +39,6 @@ namespace Italian
                 }
 
                 this.GameSequence = Sequence;
-
             }
         }
     }

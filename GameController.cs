@@ -18,8 +18,8 @@ namespace Italian
             }
 
             Console.WriteLine(this.pacman.GetPoints());
+            Console.WriteLine(this.pacman.GetLives());
             Console.ReadLine();
-
         }
 
         public static void ReadFile()

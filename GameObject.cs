@@ -4,18 +4,6 @@ namespace Italian
 {
     public class GameObject
     {
-        public int Dot { get; set; }
-        public int VGhost { get; set; }
-        public int Ghost { get; set; }
-        public int Cherry { get; set; }
-        public int Strawberry { get; set; }
-        public int Orange { get; set; }
-        public int Apple { get; set; }
-        public int Mellon { get; set; }
-        public int Galaxian { get; set; }
-        public int Bell { get; set; }
-        public int Key { get; set; }
-
         public string type;
 
         public GameObject(string type)
